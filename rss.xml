@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[jeremy barnish]]></title>
         <description><![CDATA[jeremy barnish]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jeremybarnish/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 20:16:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 20:17:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jeremybarnish/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ca1771e-96de-4fa8-a9b6-cab634bf3a86.jpg">]]></description>
-            <link>undefined51fc444f-33c8-401b-b242-e132a5f386e1/index.html</link>
+            <link>https://thegrid.ai/jeremybarnish/51fc444f-33c8-401b-b242-e132a5f386e1/index.html</link>
             <guid isPermaLink="false">51fc444f-33c8-401b-b242-e132a5f386e1</guid>
-            <pubDate>Sun, 06 Mar 2016 20:15:09 GMT</pubDate>
+            <pubDate>Sun, 06 Mar 2016 20:17:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
