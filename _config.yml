@@ -1,0 +1,28 @@
+name: jeremy barnish
+favicon: null
+layout_spectrum: 0.6260471255518496
+typography_spectrum: 0.7163733483757824
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3967877875547856
+  lightness: 0.45637804782018065
+  saturation: 0.4532319155987352
+  rhythmicContrast: 0.0321390051394701
+purpose: []
