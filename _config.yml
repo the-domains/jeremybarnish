@@ -1,28 +1,40 @@
-name: jeremy barnish
 favicon: null
-layout_spectrum: 0.6260471255518496
-typography_spectrum: 0.7163733483757824
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: jeremy barnish
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.8278918
+  brandStrength: 0.3967877875547856
+  lightness: 0.9505597
   brandColors:
     - '#709de2'
     - '#fcffff'
     - '#6c813e'
     - '#3d3d31'
     - '#061212'
-  brandStrength: 0.3967877875547856
-  lightness: 0.45637804782018065
-  saturation: 0.4532319155987352
-  rhythmicContrast: 0.0321390051394701
-purpose: []
+  rhythmicContrast: 0.1492537
+typography_spectrum: 0.7163733483757824
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.6260471255518496
+analytics:
+  twitter: null
+  google: null
+  facebook: null
